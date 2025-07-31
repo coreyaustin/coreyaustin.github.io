@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "Collimated phase measuring deflectometry II: Re-design of the optical layout for high-curvature surfaces" 
+date: 2025-06-23
+tags: ["deflectometry","metrology","optics","synchrotron"]
+author: ["Corey Austin","Wanqi Shang","Lei Huang","Tianyi Wang", "Carl Paterson", "Peter Török", "Mourad Idir"]
+description: "This paper discusses a revised optical layout for Collimated Phase Measuring Deflectometry in order to increase the slope measuring range." 
+summary: "This paper discusses a revised optical layout for Collimated Phase Measuring Deflectometry in order to increase the slope measuring range." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "CPMD-II"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://doi.org/10.1016/j.optlaseng.2025.109173"
+    Text: "Optics and Lasers in Engineering"
 
 ---
 
@@ -19,19 +19,18 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](cpmd_II.pdf)
+
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Collimated phase measuring deflectometry (CPMD) is an optical metrology technique developed to improve upon traditional phase measuring deflectometry (PMD). CPMD utilizes telecentric imaging and collimated structured light illumination to eliminate the height-slope ambiguity present in traditional PMD measurements. After the publication of the first CPMD paper, efforts began to optimize the optical layout of the CPMD system. The first proposed change, and the one detailed in this work, was to move the Fourier transform (FT) lens closer to the surface under test (SUT). Moving the FT lens closer to the SUT meant that for a given FT lens diameter, a larger range of surface slopes on the SUT could be measured. This change to the optical layout was not trivial and introduced at least two concerns that had to be addressed: telecentricity in the imaging path and possible ghost reflections from the re-located FT lens. In this work, we examine how these concerns were addressed and present results showing that the revised optical layout is capable of measurement results at least as good as the original CPMD optical layout. We also demonstrate the increased slope measuring range of the revised optical layout.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: Comparison of old (a) and revised (b) optical layouts
 
 ![](paper1.png)
 
@@ -39,23 +38,27 @@ This paper reviews unusual uses for olive oil throughout the Mediterranean world
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Corey Austin, Wanqi Shang, Lei Huang, Tianyi Wang, Carl Paterson, Peter Török, Mourad Idir,
+Collimated phase measuring deflectometry II: Re-design of the optical layout for high-curvature surfaces,
+Optics and Lasers in Engineering,
+Volume 194,
+2025,
+109173,
+ISSN 0143-8166,
+https://doi.org/10.1016/j.optlaseng.2025.109173.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{AUSTIN2025109173,
+title = {Collimated phase measuring deflectometry II: Re-design of the optical layout for high-curvature surfaces},
+journal = {Optics and Lasers in Engineering},
+volume = {194},
+pages = {109173},
+year = {2025},
+issn = {0143-8166},
+doi = {https://doi.org/10.1016/j.optlaseng.2025.109173},
+url = {https://www.sciencedirect.com/science/article/pii/S0143816625003586},
+author = {Corey Austin and Wanqi Shang and Lei Huang and Tianyi Wang and Carl Paterson and Peter Török and Mourad Idir},
+}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
