@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Professor Corey Austin
-          subtitle: "I am a researcher at Brookhaven National Laboratory and a Professor in the Physics Department at Hofstra University. My research focuses on optics and metrology for synchrotron x-ray mirrors."
+          subtitle: "I am a researcher at Brookhaven National Laboratory and a Professor in the Physics Department at Hofstra University. My research focuses on optical metrology for synchrotron x-ray mirrors."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
