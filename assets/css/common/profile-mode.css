@@ -23,6 +23,9 @@
 }
 
 .profile img {
+    width: 500px;
+    height: 741px;
+    object-fit: cover;
     border-radius: 50%;
     border: 1px solid var(--tertiary);
 }
