@@ -67,18 +67,20 @@ params:
               url: archive/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:caustin@bnl.gov
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/coreyaustin
-        - name: Substack
-          url: https://coreyaustin.github.io/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en
         - name: LinkedIn
           url: https://www.linkedin.com/in/coreyaustin/
+        - name: CV
+          url: cv.pdf
+
+
+
+
 
 
     assets:
