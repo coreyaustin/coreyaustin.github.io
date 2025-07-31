@@ -71,10 +71,6 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:caustin@bnl.gov
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en
         - name: GitHub
