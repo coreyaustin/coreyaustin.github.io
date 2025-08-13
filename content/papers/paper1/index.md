@@ -6,12 +6,12 @@ author: ["Corey Austin","Wanqi Shang","Lei Huang","Tianyi Wang", "Carl Paterson"
 description: "This paper discusses a revised optical layout for Collimated Phase Measuring Deflectometry in order to increase the slope measuring range." 
 summary: "This paper discusses a revised optical layout for Collimated Phase Measuring Deflectometry in order to increase the slope measuring range." 
 cover:
-    image: "train_vs_model.png"
-    alt: "Stray Light"
+    image: "paper1.png"
+    alt: "CPMD-II"
     relative: true
 editPost:
-    URL: "https://repository.lsu.edu/gradschool_dissertations/5419?utm_source=repository.lsu.edu%2Fgradschool_dissertations%2F5419&utm_medium=PDF&utm_campaign=PDFCoverPages"
-    Text: "LSU"
+    URL: "https://doi.org/10.1016/j.optlaseng.2025.109173"
+    Text: "Optics and Lasers in Engineering"
 
 ---
 
