@@ -1,6 +1,6 @@
 ---
 title: "Measurements and Mitigation of Scattered Light Noise in LIGO" 
-date: 2020-12
+date: 2020-12-01
 tags: ["interferometry","stray light", "commissioning"]
 author: ["Corey Austin"]
 description: "This thesis covers the work done to mitigate stray light in LIGO in pursuit of a PhD." 
