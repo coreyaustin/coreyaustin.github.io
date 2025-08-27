@@ -68,7 +68,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:caustin@bnl.gov
+          url: mailto:corey@austinphysics.com
         - name: GitHub
           url: https://github.com/coreyaustin
         - name: Google Scholar
