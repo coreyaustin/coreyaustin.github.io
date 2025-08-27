@@ -19,9 +19,9 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+        #- name: Data
+        #  url: data/
+        #  weight: 4 
 
 params:
     description: "This website hosts Corey Austin's research papers, course materials, data, curriculum vitae, and contact information."
