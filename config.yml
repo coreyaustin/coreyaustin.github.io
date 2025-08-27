@@ -78,11 +78,6 @@ params:
         - name: CV
           url: cv.pdf
 
-
-
-
-
-
     assets:
         disableScrollBarStyle: true
     cover:
@@ -107,8 +102,3 @@ markup:
         ordered: false
         startLevel: 2
 
-customCSS:
-  - |
-    .main .profile .profile_inner .profile_img img {
-        border-radius: 0 !important;
-    }
