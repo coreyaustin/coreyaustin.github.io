@@ -52,8 +52,8 @@ params:
           title: Professor Corey Austin
           subtitle: "I am a researcher at Brookhaven National Laboratory and a Professor in the Physics Department at Hofstra University. My research focuses on optical metrology for synchrotron x-ray mirrors."
           imageUrl: "picture.jpeg"
-          imageWidth: 100
-          imageHeight: 100
+          imageWidth: 60
+          imageHeight: 60
           buttons:
             - name: Papers
               url: papers/
@@ -88,6 +88,8 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: true
+
+
     label:
       text: "Corey Austin"
       icon: favicon.ico
@@ -104,3 +106,9 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+customCSS:
+  - |
+    .main .profile .profile_inner .profile_img img {
+        border-radius: 0 !important;
+    }
