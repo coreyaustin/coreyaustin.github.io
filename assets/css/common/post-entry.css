@@ -99,9 +99,22 @@
     border-radius: var(--radius);
     width: 100%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .entry-cover a {
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
+}
+
+.papers-list img,
+.papers img,
+img[src*="paper"] {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
