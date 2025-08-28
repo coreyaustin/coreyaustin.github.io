@@ -1,104 +1,109 @@
-baseURL: "https://coreyaustin.github.io/" 
-title: Corey Austin's Website
+baseURL: "https://coreyaustin.github.io/"
+title: "Corey Austin's Website"
 languageCode: "en"
-theme: PaperMod
+theme: "PaperModX"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
+
 pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        #- name: Data
-        #  url: data/
-        #  weight: 4 
+  main:
+    - name: Papers
+      url: papers/
+      weight: 2
+    - name: Courses
+      url: courses/
+      weight: 3
+    # - name: Data
+    #   url: data/
+    #   weight: 4
 
 params:
-    description: "This website hosts Corey Austin's research papers, course materials, data, curriculum vitae, and contact information."
-    author: Corey Austin
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["courses","papers"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Professor Corey Austin
-          subtitle: "I am a researcher at Brookhaven National Laboratory and a Professor in the Physics Department at Hofstra University. My research focuses on optical metrology for synchrotron x-ray mirrors."
-          imageUrl: "picture.jpeg"
-          imageWidth: 60
-          imageHeight: 60
-          buttons:
-            - name: Papers
-              url: papers/
-            #- name: Data
-            #  url: data/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+  description: "This website hosts Corey Austin's research papers, course materials, data, curriculum vitae, and contact information."
+  author: "Corey Austin"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["courses", "papers"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  TocSide: "left"
 
-    socialIcons:
-        - name: Email
-          url: mailto:corey@austinphysics.com
-        - name: GitHub
-          url: https://github.com/coreyaustin
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/coreyaustin/
-        - name: CV
-          url: cv.pdf
+  profileMode:
+    enabled: true
+    title: "Professor Corey Austin"
+    subtitle: "I am a researcher at Brookhaven National Laboratory and a Professor in the Physics Department at Hofstra University. My research focuses on optical metrology for synchrotron x-ray mirrors."
+    imageUrl: "picture.jpeg"
+    imageWidth: 60
+    imageHeight: 60
+    buttons:
+      - name: Papers
+        url: papers/
+      # - name: Data
+      #   url: data/
+      - name: Courses
+        url: courses/
+      - name: Tags
+        url: tags/
+      - name: Archive
+        url: archive/
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
+  socialIcons:
+    - name: Email
+      url: "mailto:corey@austinphysics.com"
+    - name: github-simple
+      url: "https://github.com/coreyaustin"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en"
+    - name: linkedin-simple
+      url: "https://www.linkedin.com/in/coreyaustin/"
+    - name: cv
+      url: "cv.pdf"
 
+  assets:
+    disableScrollBarStyle: true
+    disableHLJS: false          # disable highlight.js (false = keep it)
+    disableFingerprinting: true # avoids cache-busting hashes
+    css: []                     # required for PaperModX
+    js: []                      # required for PaperModX
 
-    label:
-      text: "Corey Austin"
-      icon: favicon.ico
-      iconHeight: 18
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+
+  label:
+    text: "Corey Austin"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
