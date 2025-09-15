@@ -72,6 +72,9 @@ params:
     - name: Email
       url: "mailto:corey@austinphysics.com"
       title: "Email me"
+    - name: youtube
+      url: "https://www.youtube.com/@austinphysics"
+      title: "YouTube channel"
     - name: linkedin
       url: "https://www.linkedin.com/in/coreyaustin/"
       title: "LinkedIn profile"
