@@ -28,7 +28,7 @@ We’ll kick off with a quick course overview (syllabus, grading rubric, expecta
 
 ##### Lecture videos
 
-+ [Lab 0 Lecture Video](Lab_0_lecture.mp4) – Video from the first meeting of the semester.
++ [Lab 0 Lecture Video](https://youtu.be/OcTqN-_vnAs) – Video from the first meeting of the semester.
 
 ##### Lecture notes
 
