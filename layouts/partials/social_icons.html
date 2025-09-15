@@ -1,0 +1,14 @@
+{{- $items := site.Params.socialIcons -}}
+{{- if $items }}
+<div class="social-icons">
+  {{- range $items }}
+    {{- $href := .url | safeURL -}}
+    <a href="{{ $href }}"
+       target="_blank"
+       rel="noopener noreferrer me"
+       title="{{ with .title }}{{ . }}{{ else }}{{ .name | humanize }}{{ end }}">
+       {{ partial "svg.html" (dict "name" (lower .name)) }}
+    </a>
+  {{- end }}
+</div>
+{{- end }}

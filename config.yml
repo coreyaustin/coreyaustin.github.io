@@ -71,14 +71,22 @@ params:
   socialIcons:
     - name: Email
       url: "mailto:corey@austinphysics.com"
-    - name: github-simple
+      title: "Email me"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/coreyaustin/"
+      title: "LinkedIn profile"
+    - name: github
       url: "https://github.com/coreyaustin"
+      title: "GitHub profile"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=QDtJbIMAAAAJ&hl=en"
-    - name: linkedin-simple
-      url: "https://www.linkedin.com/in/coreyaustin/"
+      title: "Google Scholar profile"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-5488-9480"
+      title: "ORCID profile"
     - name: cv
       url: "cv.pdf"
+      title: "Curriculum Vitae (CV)"
 
   assets:
     disableScrollBarStyle: true
