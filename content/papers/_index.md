@@ -3,7 +3,7 @@ title: "Papers"
 description: "Preprints and articles by Dr. Austin."
 ---
 
-## Published Papers
+<!-- ## Published Papers
 
 ### [Collimated phase measuring deflectometry II: Re-design of the optical layout for high-curvature surfaces](paper1/)
 *Optics and Lasers in Engineering, Volume 194, 2025*  
@@ -46,4 +46,4 @@ S. Soni, C. Austin, A. Effler, R. M. Schofield, G. González, V. Frolov, J. C. D
 ### Mechanical Design of a Parallel Flexure-based RADSI Instrument for Curved X-ray Mirror Metrology at NSLS-II
 *Review of Scientific Instruments, Under Review*  
 L. Lienhard, C. Austin, W. Xu, M. Idir, S. Hulbert, E. Nazaretski, D. Coburn, T. Wang, L. Huang  
-[DOI](https://doi.org/10.1063/5.0278407)
+[DOI](https://doi.org/10.1063/5.0278407) -->
