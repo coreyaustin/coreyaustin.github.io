@@ -39,7 +39,7 @@ P. Nguyen, R. M. Schofield, A. Effler, C. Austin, V. Adya, M. Ball, S. Banagiri,
 
 ### Reducing Scattered Light in LIGO's Third Observing Run
 *Classical and Quantum Gravity, Volume 38, No. 2, 2020*  
-S. Soni, C. Austin, A. Effler, R. M. Schofield, G. González, V. Frolov, J. C. Driggers, et al.  
+S. Soni, C. Austin, A. Effler, R. M. Schofield, G. Gonzalez, V. Frolov, J. C. Driggers, et al.  
 [DOI](https://doi.org/10.1088/1361-6382/abc906)
 
 
