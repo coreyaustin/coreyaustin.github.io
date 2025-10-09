@@ -7,7 +7,7 @@ description: "Preprints and articles by Dr. Austin."
 
 ### [Collimated phase measuring deflectometry II: Re-design of the optical layout for high-curvature surfaces](paper1/)
 *Optics and Lasers in Engineering, Volume 194, 2025*  
-C. Austin, W. Shang, L. Huang, T. Wang, C. Paterson, P. Torok, M. Idir  
+C. Austin, W. Shang, L. Huang, T. Wang, C. Paterson, P. T&ouml;r&ouml;k, M. Idir  
 [DOI](https://doi.org/10.1016/j.optlaseng.2025.109173)
 
 ### Collimated phase measuring deflectometry
@@ -39,7 +39,7 @@ P. Nguyen, R. M. Schofield, A. Effler, C. Austin, V. Adya, M. Ball, S. Banagiri,
 
 ### Reducing Scattered Light in LIGO's Third Observing Run
 *Classical and Quantum Gravity, Volume 38, No. 2, 2020*  
-S. Soni, C. Austin, A. Effler, R. M. Schofield, G. Gonzalez, V. Frolov, J. C. Driggers, et al.  
+S. Soni, C. Austin, A. Effler, R. M. Schofield, G. Gonz&aacute;lez, V. Frolov, J. C. Driggers, et al.  
 [DOI](https://doi.org/10.1088/1361-6382/abc906)
 
 
