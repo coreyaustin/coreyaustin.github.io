@@ -10,7 +10,7 @@ description: "Preprints and articles by Dr. Austin."
 C. Austin, W. Shang, L. Huang, T. Wang, C. Paterson, P. T&ouml;r&ouml;k, M. Idir  
 [DOI](https://doi.org/10.1016/j.optlaseng.2025.109173)
 
-### Collimated phase measuring deflectometry
+### [Collimated phase measuring deflectometry](paper2/)
 *Optics and Lasers in Engineering, Volume 172, 2024*  
 L. Huang, T. Wang, C. Austin, L. Lienhard, Y. Hu, C. Zuo, D. Kim, M. Idir  
 [DOI](https://doi.org/10.1016/j.optlaseng.2023.107882)
