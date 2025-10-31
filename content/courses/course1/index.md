@@ -40,3 +40,17 @@ The first lab of the semester focuses on the harmonic oscillator using a mass on
 
 #### Lecture notes
 + [Lab 1 Slides](lab_1_presentation.pdf)
+
+## Lab 2: Vibrating Strings
+In this lab, students investigate standing wave patterns in a copper wire to explore the relationship between tension, linear density, and resonant frequency as described by Mersenne’s laws. Using a sinusoidal function generator to drive vibrations in a magnetically biased wire, students observe and analyze the conditions required for resonance, identify harmonic modes, and compare experimental results to theoretical predictions.
+
+#### Lecture notes
++ [Lab 2 Slides](lab_2_vibrating_strings_presentation.pdf)
+
+## Lab3: Basic Sound
+In this lab, students explore the formation of standing waves in an acoustic medium using a plastic tube as a resonant line. A speaker driven at 500 Hz generates sound waves within the tube, and a movable microphone is used to map the pressure distribution and identify nodes and antinodes. From these measurements, students determine the wavelength of the sound and examine how boundary conditions (solid, absorbing, and open terminations) affect the standing wave pattern and resonance behavior.
+
+#### Lecture notes
++ [Lab 3 Slides](lab_3_basic_sound_presentation.pdf)
+
+
