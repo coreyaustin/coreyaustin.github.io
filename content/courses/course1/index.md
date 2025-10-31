@@ -47,10 +47,21 @@ In this lab, students investigate standing wave patterns in a copper wire to exp
 #### Lecture notes
 + [Lab 2 Slides](lab_2_vibrating_strings_presentation.pdf)
 
-## Lab3: Basic Sound
+## Lab 3: Basic Sound
 In this lab, students explore the formation of standing waves in an acoustic medium using a plastic tube as a resonant line. A speaker driven at 500 Hz generates sound waves within the tube, and a movable microphone is used to map the pressure distribution and identify nodes and antinodes. From these measurements, students determine the wavelength of the sound and examine how boundary conditions (solid, absorbing, and open terminations) affect the standing wave pattern and resonance behavior.
 
 #### Lecture notes
 + [Lab 3 Slides](lab_3_basic_sound_presentation.pdf)
+
+## Lab 4: DC Circuits
+In this lab, students investigate fundamental principles of direct current (DC) circuits. They verify Ohm’s Law by measuring the relationship between voltage, current, and resistance, and apply Kirchhoff’s Voltage and Current Laws to analyze simple circuit networks. Students construct and measure resistor combinations in both series and parallel configurations, comparing experimental data with theoretical predictions to reinforce concepts of circuit analysis.
+
+#### Lecture notes
++ [Lab 4 Slides](lab_4_dc_circuits.pdf)
+
+## Additional Lab: Electrostatic Fields
+In this lab, students investigate the behavior of electrostatic fields and potentials using conducting paper with painted electrode configurations. By measuring voltage at various points, they map out equipotential lines for different geometries and visualize the corresponding electric field patterns. Students then analyze how the potential changes across the field, verifying that the electric potential decreases as field lines diverge and confirming the perpendicular relationship between electric fields and equipotential surfaces.
+
++ [Additional Lab Slides](lab_4_electrostatic_fields.pdf)
 
 
