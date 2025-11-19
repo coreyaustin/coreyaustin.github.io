@@ -15,6 +15,11 @@ C. Austin, W. Shang, L. Huang, T. Wang, C. Paterson, P. T&ouml;r&ouml;k, M. Idir
 L. Huang, T. Wang, C. Austin, L. Lienhard, Y. Hu, C. Zuo, D. Kim, M. Idir  
 [DOI](https://doi.org/10.1016/j.optlaseng.2023.107882)
 
+### [CUDO: closed-form universal dwell-time optimization for computer-controlled optical surfacing]
+*Optics Express, Volume 33, 2025*
+Pages 50201-50214
+[DOI][https://doi.org/10.1364/OE.577940]
+
 ### Two-step retrace error calibration removing tilt ambiguity in coherence scanning interferometry
 *Optics Letters, Volume 49, 2024*  
 L. Huang, T. Wang, C. Austin, D. Kim, M. Idir  
